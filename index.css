@@ -1,0 +1,27 @@
+h1 {
+    background-color: bisque;
+    font-size: 32pt;
+}
+h2 {
+    color: blue;
+    background-color: gold;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    text-align: center;
+    font-size: 28pt;
+    
+}
+.product-card {
+    border: solid black 5px;
+    padding: 10px;
+    color: navy;
+    background-color: orange;
+    font-size: 20pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 50px;
+}
+button {
+    color: magenta;
+    background-color: aquamarine;
+    border: dotted magenta 5px;
+}
